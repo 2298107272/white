@@ -1,0 +1,13 @@
+html,body,#app{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.ql-editor{
+    min-height: 300px !important;
+}
+/* //给添加商品按钮添加间距 */
+.btnAdd{
+    margin-top: 150px;
+}
